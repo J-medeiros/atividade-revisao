@@ -1,5 +1,5 @@
-# Versão 2.0
+# Versão 3.0
 def saudacao(nome):
-    return f"Olá, {nome}!"
+    return f"Seja bem-vindo(a), {nome}!"
 
 print(saudacao("João"))
