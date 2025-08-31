@@ -1,5 +1,5 @@
-# Versão 3.0
-def saudacao(nome):
-    return f"Seja bem-vindo(a), {nome}!"
+# Nova funcionalidade na branch
+def soma(a, b):
+    return a + b
 
-print(saudacao("João"))
+print("Resultado da soma:", soma(5, 3))
